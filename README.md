@@ -19,7 +19,7 @@ Welcome to my solution page. I hope you'll find some good implemantions for this
 
 ## Links
 
-- [My Live Site](https://adonmez04.github.io/FEM-2-Order-summary-component-mobile-first/)
+- [My Live Site](https://adonmez04.github.io/Order-summary-component-v2.0/)
 
 - [My Solution Page](https://www.frontendmentor.io/solutions/fem2ordersummarycomponentmobilefirst-yN7sJVBxnz)
 
