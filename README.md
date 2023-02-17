@@ -1,8 +1,8 @@
-# Frontend Mentor - Order Summary Component (The Mobile First)
+# Frontend Mentor - Order Summary Component v2.0
 
 **Table of Contents**
 
-- [Frontend Mentor - Order Summary Component (The Mobile First)](#frontend-mentor---order-summary-component-the-mobile-first)
+- [Frontend Mentor - Order Summary Component v2.0](#frontend-mentor---order-summary-component-v20)
   - [Welcome! 👋](#welcome-)
   - [Links](#links)
   - [Overview](#overview)
